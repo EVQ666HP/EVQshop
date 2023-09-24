@@ -1,0 +1,144 @@
+@import '../../scss/app';
+
+.header-special-offer {
+  width: 100%;
+  @extend %font-main;
+  padding: 5px 0px;
+  margin-bottom: 10px;
+  background: black;
+  color: white;
+  text-align: center;
+}
+
+.header-block {
+  z-index: 1;
+  top: 0px;
+  position: sticky;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  @extend %font-second;
+  margin-bottom: 20px;
+
+
+  .category-list {
+    display: flex;
+    font-size: 20px;
+
+    &__item {
+      margin-right: 17px;
+    }
+
+    &__item:hover {
+      text-decoration: underline;
+    }
+  }
+
+}
+
+.shop-logo {
+  @extend %font-main;
+  font-size: 48px;
+  margin-right: 17px;
+}
+
+
+
+.icon-block {
+  display: flex;
+
+  &__search-container {
+    position: relative;
+  }
+
+  &__search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 210px;
+    margin-right: 17px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0px 10px;
+    height: 30px;
+
+    input {
+      @extend %font-second;
+      border: none;
+      font-size: 18px;
+      width: 100%;
+      background: white;
+    }
+
+    input:focus {
+      outline: none;
+    }
+  }
+
+
+
+  .search-items {
+    position: absolute;
+    top: 32px;
+    width: 94%;
+    background-color: white;
+    box-shadow: -2px 10px 16px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    max-height: 320px;
+    overflow: auto;
+  }
+
+  .found-item {
+    @extend %font-main;
+    font-size: 16px;
+    padding: 10px;
+
+    &__price {
+      margin-top: 5px;
+      color: #DE6737;
+    }
+
+    &:hover {
+      background: rgb(230, 230, 230);
+    }
+  }
+
+  &__account {
+    margin-right: 17px;
+  }
+
+  &__search svg:hover,
+  &__account:hover,
+  &__cart:hover {
+    fill: #DE6737;
+    transition: 0.2s;
+  }
+}
+
+.active {
+  fill: #DE6737;
+}
+
+.search-undefined {
+  @extend %font-main;
+  width: 215px !important;
+  font-size: 16px;
+  padding: 10px;
+}
+
+@media screen and (max-width: 780px) {
+  .header-block {
+    .category {
+      display: none;
+    }
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .header-special-offer {
+    padding: 7px 0px;
+    font-size: 14px;
+  }
+}

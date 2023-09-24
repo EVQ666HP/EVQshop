@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "gender": "Men",
+    "category": "T-shirt",
+    "brand": "Nike",
+    "model": "ACG LS OREGON COAST T-SHIRT BLACK",
+    "description": "T-shirt from Nike ACG. Made from a blend of sustainable polyester and cotton fibers. Features a ribbed crew neck, long sleeves with ribbed cuffs and printed graphics throughout the t-shirt.",
+    "details": "Black t-shirt. Made in Vietnam from 63% polyester and 37% cotton. ART. NO: DX9452-010",
+    "picture": [
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_001.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_004.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_006.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_003.jpg"
+    ],
+    "size": ["XS", "S", "M", "L"],
+    "color": "black",
+    "SizeFit": "Regular fit t-shirt with long sleeves. Model wears a size Medium and measures 188 cm with a 84 cm chest.",
+    "price": 220,
+    "oldPrice": 0,
+    "rating": 5,
+    "specialCategory": "Final sale"
+  },
+  {
+    "id": 2,
+    "gender": "Men",
+    "category": "T-shirt",
+    "brand": "Nike",
+    "model": "ACG LS OREGON COAST T-SHIRT BLACK",
+    "description": "T-shirt from Nike ACG. Made from a blend of sustainable polyester and cotton fibers. Features a ribbed crew neck, long sleeves with ribbed cuffs and printed graphics throughout the t-shirt.",
+    "details": "Black t-shirt. Made in Vietnam from 63% polyester and 37% cotton. ART. NO: DX9452-010",
+    "picture": [
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_001.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_004.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_006.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_003.jpg"
+    ],
+    "size": ["XS", "S", "M", "L"],
+    "color": "black",
+    "SizeFit": "Regular fit t-shirt with long sleeves. Model wears a size Medium and measures 188 cm with a 84 cm chest.",
+    "price": 220,
+    "oldPrice": 0,
+    "rating": 5,
+    "specialCategory": "Popular purchases"
+  },
+  {
+    "id": 3,
+    "gender": "Men",
+    "category": "T-shirt",
+    "brand": "Nike",
+    "model": "ACG LS OREGON COAST T-SHIRT BLACK",
+    "description": "T-shirt from Nike ACG. Made from a blend of sustainable polyester and cotton fibers. Features a ribbed crew neck, long sleeves with ribbed cuffs and printed graphics throughout the t-shirt.",
+    "details": "Black t-shirt. Made in Vietnam from 63% polyester and 37% cotton. ART. NO: DX9452-010",
+    "picture": [
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_001.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_004.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_006.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_003.jpg"
+    ],
+    "size": ["XS", "S", "M", "L"],
+    "color": "black",
+    "SizeFit": "Regular fit t-shirt with long sleeves. Model wears a size Medium and measures 188 cm with a 84 cm chest.",
+    "price": 220,
+    "oldPrice": 0,
+    "rating": 5,
+    "specialCategory": "Final sale"
+  },
+  {
+    "id": 4,
+    "gender": "Men",
+    "category": "Jacket",
+    "brand": "The North Face",
+    "model": "Apex Bionic 2 Jacket",
+    "description": "Conquer the outdoors with The North Face Apex Bionic 2 Jacket. Designed to provide windproof protection and comfort during various activities.",
+    "details": "Softshell jacket with WindWall technology. Durable water-repellent finish to shed light rain. Ideal for hiking, climbing, and everyday wear.",
+    "picture": [
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_001.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_004.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_006.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_003.jpg"
+    ],
+    "size": ["M", "L", "XL", "XXL"],
+    "color": "gray",
+    "SizeFit": "Regular fit jacket with adjustable cuffs and hem. Model wears size Large.",
+    "price": 150,
+    "oldPrice": 180,
+    "rating": 4.9,
+    "specialCategory": "Final sale"
+  },
+  {
+    "id": 5,
+    "gender": "Men",
+    "category": "T-shirt",
+    "brand": "Nike",
+    "model": "ACG LS OREGON COAST T-SHIRT BLACK",
+    "description": "T-shirt from Nike ACG. Made from a blend of sustainable polyester and cotton fibers. Features a ribbed crew neck, long sleeves with ribbed cuffs and printed graphics throughout the t-shirt.",
+    "details": "Black t-shirt. Made in Vietnam from 63% polyester and 37% cotton. ART. NO: DX9452-010",
+    "picture": [
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_001.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_004.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_006.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_003.jpg"
+    ],
+    "size": ["XS", "S", "M", "L"],
+    "color": "black",
+    "SizeFit": "Regular fit t-shirt with long sleeves. Model wears a size Medium and measures 188 cm with a 84 cm chest.",
+    "price": 220,
+    "oldPrice": 0,
+    "rating": 5,
+    "specialCategory": "New collection"
+  },
+  {
+    "id": 9,
+    "gender": "Women",
+    "category": "Skirt",
+    "brand": "H&M",
+    "model": "Pleated A-Line Skirt",
+    "description": "Elevate your outfit with the H&M Pleated A-Line Skirt. This versatile skirt offers a classic design with a modern twist.",
+    "details": "A-line skirt with pleated details. Made from lightweight and flowy fabric. Features a concealed side zipper.",
+    "picture": [
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_001.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_004.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_006.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_003.jpg"
+    ],
+    "size": ["2", "4", "6", "8"],
+    "color": "navy",
+    "SizeFit": "A-line silhouette with a fitted waist. Model is 163 cm tall and wears size 4.",
+    "price": 45,
+    "oldPrice": 60,
+    "rating": 4.0,
+    "specialCategory": "Final sale"
+  },
+  {
+    "id": 6,
+    "gender": "Men",
+    "category": "Sneakers",
+    "brand": "Puma",
+    "model": "RS-X Tech Sneakers",
+    "description": "Stay ahead of the sneaker game with Puma RS-X Tech Sneakers. Featuring a retro design with modern tech elements, these sneakers are a must-have.",
+    "details": "Chunky sneakers with a mix of materials and textures. Built with Puma's Running System technology for enhanced cushioning and comfort.",
+    "picture": [
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_001.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_004.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_006.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_003.jpg"
+    ],
+    "size": ["US 8", "US 9", "US 10", "US 11"],
+    "color": "white",
+    "SizeFit": "Chunky fit sneakers with padded collar and tongue. Model wears size US 9.",
+    "price": 120,
+    "oldPrice": 140,
+    "rating": 4.7,
+    "specialCategory": "Popular purchases"
+  },
+  {
+    "id": 7,
+    "gender": "Women",
+    "category": "Dress",
+    "brand": "Zara",
+    "model": "Floral Print Midi Dress",
+    "description": "Step into elegance with the Zara Floral Print Midi Dress. Perfect for special occasions or a casual day out, this dress offers a blend of style and comfort.",
+    "details": "Midi-length dress with a vibrant floral print. Made from lightweight and breathable fabric. Features a V-neckline and adjustable straps.",
+    "picture": [
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_001.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_004.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_006.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_003.jpg"
+    ],
+    "size": ["XS", "S", "M", "L"],
+    "color": "multicolor",
+    "SizeFit": "Relaxed fit dress that flares at the hem. Model is 170 cm tall and wears size Small.",
+    "price": 65,
+    "oldPrice": 80,
+    "rating": 4.2,
+    "specialCategory": "Final sale"
+  },
+  {
+    "id": 8,
+    "gender": "Men",
+    "category": "Jeans",
+    "brand": "Levi's",
+    "model": "511 Slim Fit Jeans",
+    "description": "Upgrade your denim collection with Levi's 511 Slim Fit Jeans. These jeans offer a modern slim-cut look with added stretch for comfort.",
+    "details": "Indigo blue jeans made from durable denim fabric. Slim fit design with a zip fly. Available in various waist sizes and inseam lengths.",
+    "picture": [
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_001.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_004.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_006.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_003.jpg"
+    ],
+    "size": ["28x30", "30x32", "32x32", "34x34"],
+    "color": "indigo",
+    "SizeFit": "Slim fit jeans with a tapered leg. Model is 183 cm tall and wears size 32x32.",
+    "price": 90,
+    "oldPrice": 110,
+    "rating": 4.5,
+    "specialCategory": "Final sale"
+  },
+  {
+    "id": 10,
+    "gender": "Women",
+    "category": "Hoodie",
+    "brand": "Adidas",
+    "model": "Originals Trefoil Hoodie",
+    "description": "Stay warm and stylish with the Adidas Originals Trefoil Hoodie. Made from soft and comfortable materials, it's perfect for casual wear and outdoor activities.",
+    "details": "Classic black hoodie with the iconic Adidas Trefoil logo. Made from a blend of cotton and polyester. Available in various sizes. Product code: ABC123",
+    "picture": [
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_001.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_004.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_006.jpg",
+      "https://tres-bien.com/media/catalog/product/cache/92c32ae85341dabe805aa810fb1f52cd/n/i/nike-acg_230309_003.jpg"
+    ],
+    "size": ["S", "M", "L", "XL"],
+    "color": "black",
+    "SizeFit": "Relaxed fit hoodie with a kangaroo pocket. Model is 175 cm tall and wears size Small.",
+    "price": 75,
+    "oldPrice": 90,
+    "rating": 4.8,
+    "specialCategory": "New collection"
+  }
+]

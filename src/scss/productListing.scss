@@ -1,0 +1,167 @@
+.shop {
+  &-title {
+    font-size: 32px;
+    margin: 25px 0px;
+  }
+
+  &-description {
+    @extend %font-second !optional;
+    font-size: 28px;
+    margin-top: 35px;
+    text-align: justify;
+    line-height: 40px;
+  }
+
+  &-span {
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 0px 10px 0px;
+    text-align: center;
+
+    &:hover {
+      background: black;
+      color: white;
+    }
+  }
+}
+
+//items Block
+.items-block {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  grid-auto-rows: auto;
+  grid-column-gap: 20px;
+  width: 100%;
+}
+
+.item {
+  position: relative;
+  width: 100%;
+  height: 480px;
+
+  // Overlay
+  &__overlay {
+    @extend %overlay !optional;
+    width: 100%;
+    height: 360px;
+    border-radius: 44px;
+  }
+
+  &:hover .item__overlay {
+    opacity: 1;
+  }
+
+  &__show-more {
+    @extend %showMore !optional;
+  }
+
+  //
+  &__IMG {
+    width: 100%;
+    height: 360px;
+    margin-bottom: 15px;
+    border-radius: 44px;
+    object-fit: contain;
+    background: #E9E9EB;
+    transition: transform 0.3s;
+  }
+
+
+  &__title {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+
+    h1 {
+      font-size: 20px;
+    }
+  }
+
+  &__color {
+    min-width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+  }
+
+  &__price {
+    display: flex;
+    font-size: 20px;
+    color: #DE6737;
+  }
+
+  &__characterisation {
+    height: 70px;
+    justify-content: space-between;
+  }
+
+
+}
+
+@media screen and (max-width: 1280px) {
+  .items-block {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 890px) {
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .sort-block {
+    margin-bottom: 20px;
+
+    ul {
+      right: -30px;
+    }
+  }
+
+  .items-block {
+    grid-template-columns: repeat(2, 1fr);
+    width: 100%;
+  }
+
+  .item {
+    position: relative;
+    width: 98%;
+    height: 480px;
+
+    &_overlay {
+      height: 370px;
+    }
+
+    &_IMG {
+      object-fit: scale-down;
+      height: 370px;
+    }
+  }
+}
+
+
+@media screen and (max-width: 630px) {
+  .items-block {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .item {
+    height: unset;
+    margin-bottom: 20px;
+
+    &_IMG {
+      height: 360px;
+      border-radius: 22px;
+    }
+
+    &__title {
+      h1 {
+        font-size: 16px;
+      }
+    }
+
+  }
+}
